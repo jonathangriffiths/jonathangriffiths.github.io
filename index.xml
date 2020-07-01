@@ -1,16 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Jonathan Griffiths</title>
     <link>https://jonathangriffiths.github.io/</link>
       <atom:link href="https://jonathangriffiths.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Jonathan Griffiths</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 11:43:49 +0100</lastBuildDate>
     <image>
       <url>https://jonathangriffiths.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <title>Jonathan Griffiths</title>
       <link>https://jonathangriffiths.github.io/</link>
     </image>
+    
+    <item>
+      <title>Barcode swapping</title>
+      <link>https://jonathangriffiths.github.io/project/swapping/</link>
+      <pubDate>Wed, 01 Jul 2020 11:43:49 +0100</pubDate>
+      <guid>https://jonathangriffiths.github.io/project/swapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mouse gastrulation website</title>
+      <link>https://jonathangriffiths.github.io/project/gastrulation_website/</link>
+      <pubDate>Wed, 01 Jul 2020 11:43:44 +0100</pubDate>
+      <guid>https://jonathangriffiths.github.io/project/gastrulation_website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MGD package</title>
+      <link>https://jonathangriffiths.github.io/project/mgd/</link>
+      <pubDate>Wed, 01 Jul 2020 11:43:38 +0100</pubDate>
+      <guid>https://jonathangriffiths.github.io/project/mgd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated polygenic and clinical risk tool enhances coronary artery disease prediction</title>
+      <link>https://jonathangriffiths.github.io/publication/aguilera-integrated-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://jonathangriffiths.github.io/publication/aguilera-integrated-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A single-cell molecular map of mouse gastrulation and early organogenesis</title>
+      <link>https://jonathangriffiths.github.io/publication/pijuan-sala-single-cell-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jonathangriffiths.github.io/publication/pijuan-sala-single-cell-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10x Genomics User Group Meeting</title>
+      <link>https://jonathangriffiths.github.io/talk/10x_paris/</link>
+      <pubDate>Thu, 13 Sep 2018 12:01:39 +0100</pubDate>
+      <guid>https://jonathangriffiths.github.io/talk/10x_paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection and removal of barcode swapping in single-cell RNA-seq data</title>
+      <link>https://jonathangriffiths.github.io/publication/griffiths-detection-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://jonathangriffiths.github.io/publication/griffiths-detection-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biology of Genomes 2018</title>
+      <link>https://jonathangriffiths.github.io/talk/bog_2018/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://jonathangriffiths.github.io/talk/bog_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using single‐cell genomics to understand developmental processes and cell fate decisions</title>
+      <link>https://jonathangriffiths.github.io/publication/griffiths-using-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://jonathangriffiths.github.io/publication/griffiths-using-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic autosomal aneuploidies are detectable from single-cell RNAseq data</title>
+      <link>https://jonathangriffiths.github.io/publication/griffiths-mosaic-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://jonathangriffiths.github.io/publication/griffiths-mosaic-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10x Genomics User Group Meeting</title>
+      <link>https://jonathangriffiths.github.io/talk/10x_cambridge/</link>
+      <pubDate>Mon, 19 Jun 2017 12:01:42 +0100</pubDate>
+      <guid>https://jonathangriffiths.github.io/talk/10x_cambridge/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

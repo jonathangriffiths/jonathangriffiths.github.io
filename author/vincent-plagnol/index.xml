@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Plagnol | Jonathan Griffiths</title>
+    <link>https://jonathangriffiths.github.io/author/vincent-plagnol/</link>
+      <atom:link href="https://jonathangriffiths.github.io/author/vincent-plagnol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincent Plagnol</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jonathangriffiths.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Vincent Plagnol</title>
+      <link>https://jonathangriffiths.github.io/author/vincent-plagnol/</link>
+    </image>
+    
+    <item>
+      <title>An integrated polygenic and clinical risk tool enhances coronary artery disease prediction</title>
+      <link>https://jonathangriffiths.github.io/publication/aguilera-integrated-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://jonathangriffiths.github.io/publication/aguilera-integrated-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
