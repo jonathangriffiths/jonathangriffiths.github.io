@@ -5,12 +5,20 @@
     <link>https://jonathangriffiths.github.io/project/</link>
       <atom:link href="https://jonathangriffiths.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 11:43:49 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 16:43:49 +0000</lastBuildDate>
     <image>
       <url>https://jonathangriffiths.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://jonathangriffiths.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>MGD-playground</title>
+      <link>https://jonathangriffiths.github.io/project/mgd-playground/</link>
+      <pubDate>Mon, 30 Nov 2020 16:43:49 +0000</pubDate>
+      <guid>https://jonathangriffiths.github.io/project/mgd-playground/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Barcode swapping</title>
