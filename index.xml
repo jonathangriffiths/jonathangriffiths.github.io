@@ -5,7 +5,7 @@
     <link>https://jonathangriffiths.github.io/</link>
       <atom:link href="https://jonathangriffiths.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Griffiths</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jonathangriffiths.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jonathan Griffiths</title>
@@ -78,9 +78,9 @@
     
     <item>
       <title>10x Genomics User Group Meeting - Paris</title>
-      <link>https://jonathangriffiths.github.io/talk/10x_paris/</link>
+      <link>https://jonathangriffiths.github.io/talk/10x-genomics-user-group-meeting-paris/</link>
       <pubDate>Thu, 13 Sep 2018 12:01:39 +0100</pubDate>
-      <guid>https://jonathangriffiths.github.io/talk/10x_paris/</guid>
+      <guid>https://jonathangriffiths.github.io/talk/10x-genomics-user-group-meeting-paris/</guid>
       <description></description>
     </item>
     
@@ -94,17 +94,17 @@
     
     <item>
       <title>Quantitative Genomics 2018</title>
-      <link>https://jonathangriffiths.github.io/talk/qgen_18/</link>
+      <link>https://jonathangriffiths.github.io/talk/quantitative-genomics-2018/</link>
       <pubDate>Thu, 14 Jun 2018 14:56:12 +0000</pubDate>
-      <guid>https://jonathangriffiths.github.io/talk/qgen_18/</guid>
+      <guid>https://jonathangriffiths.github.io/talk/quantitative-genomics-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biology of Genomes 2018</title>
-      <link>https://jonathangriffiths.github.io/talk/bog_2018/</link>
+      <link>https://jonathangriffiths.github.io/talk/biology-of-genomes-2018/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://jonathangriffiths.github.io/talk/bog_2018/</guid>
+      <guid>https://jonathangriffiths.github.io/talk/biology-of-genomes-2018/</guid>
       <description></description>
     </item>
     
@@ -118,9 +118,9 @@
     
     <item>
       <title>MASAMB 2018</title>
-      <link>https://jonathangriffiths.github.io/talk/masamb_standrews/</link>
+      <link>https://jonathangriffiths.github.io/talk/masamb-2018/</link>
       <pubDate>Mon, 19 Mar 2018 14:56:02 +0000</pubDate>
-      <guid>https://jonathangriffiths.github.io/talk/masamb_standrews/</guid>
+      <guid>https://jonathangriffiths.github.io/talk/masamb-2018/</guid>
       <description></description>
     </item>
     
@@ -134,9 +134,9 @@
     
     <item>
       <title>10x Genomics User Group Meeting - Cambridge</title>
-      <link>https://jonathangriffiths.github.io/talk/10x_cambridge/</link>
+      <link>https://jonathangriffiths.github.io/talk/10x-genomics-user-group-meeting-cambridge/</link>
       <pubDate>Mon, 19 Jun 2017 12:01:42 +0100</pubDate>
-      <guid>https://jonathangriffiths.github.io/talk/10x_cambridge/</guid>
+      <guid>https://jonathangriffiths.github.io/talk/10x-genomics-user-group-meeting-cambridge/</guid>
       <description></description>
     </item>
     
