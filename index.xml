@@ -5,34 +5,34 @@
     <link>https://jonathangriffiths.github.io/</link>
       <atom:link href="https://jonathangriffiths.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Griffiths</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jonathangriffiths.github.io/images/icon_hu12ffc3e46651fad80e4d23fae362a782_6011_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jonathangriffiths.github.io/images/icon_hu12ffc3e46651fad80e4d23fae362a782_6011_512x512_fill_lanczos_center_3.png</url>
       <title>Jonathan Griffiths</title>
       <link>https://jonathangriffiths.github.io/</link>
     </image>
+    
+    <item>
+      <title>Integration of spatial and single-cell transcriptomic data elucidates mouse organogenesis</title>
+      <link>https://jonathangriffiths.github.io/publication/lohoff-integration-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jonathangriffiths.github.io/publication/lohoff-integration-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Polygenic Tool Substantially Enhances Coronary Artery Disease Prediction</title>
+      <link>https://jonathangriffiths.github.io/publication/riveros-mckay-integrated-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://jonathangriffiths.github.io/publication/riveros-mckay-integrated-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diverse Routes toward Early Somites in the Mouse Embryo</title>
       <link>https://jonathangriffiths.github.io/publication/guibentif-diverse-2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://jonathangriffiths.github.io/publication/guibentif-diverse-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MGD-playground</title>
-      <link>https://jonathangriffiths.github.io/project/mgd-playground/</link>
-      <pubDate>Mon, 30 Nov 2020 16:43:49 +0000</pubDate>
-      <guid>https://jonathangriffiths.github.io/project/mgd-playground/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Highly multiplexed spatially resolved gene expression profiling of mouse organogenesis</title>
-      <link>https://jonathangriffiths.github.io/publication/lohoff-highly-2020/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://jonathangriffiths.github.io/publication/lohoff-highly-2020/</guid>
       <description></description>
     </item>
     
@@ -57,14 +57,6 @@
       <link>https://jonathangriffiths.github.io/project/mgd/</link>
       <pubDate>Wed, 01 Jul 2020 11:43:38 +0100</pubDate>
       <guid>https://jonathangriffiths.github.io/project/mgd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An integrated polygenic and clinical risk tool enhances coronary artery disease prediction</title>
-      <link>https://jonathangriffiths.github.io/publication/aguilera-integrated-2020/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://jonathangriffiths.github.io/publication/aguilera-integrated-2020/</guid>
       <description></description>
     </item>
     
