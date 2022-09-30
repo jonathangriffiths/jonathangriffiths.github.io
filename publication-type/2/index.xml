@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Academic</title>
-    <link>https://example.com/publication-type/2/</link>
-      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <title>2 | Jonathan Griffiths</title>
+    <link>https://jonathangriffiths.github.io/publication-type/2/</link>
+      <atom:link href="https://jonathangriffiths.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jonathangriffiths.github.io/media/icon_hu12ffc3e46651fad80e4d23fae362a782_6011_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://example.com/publication-type/2/</link>
+      <link>https://jonathangriffiths.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>Integration of spatial and single-cell transcriptomic data elucidates mouse organogenesis</title>
-      <link>https://example.com/publication/lohoff-integration-2021/</link>
+      <link>https://jonathangriffiths.github.io/publication/lohoff-integration-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lohoff-integration-2021/</guid>
+      <guid>https://jonathangriffiths.github.io/publication/lohoff-integration-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated Polygenic Tool Substantially Enhances Coronary Artery Disease Prediction</title>
-      <link>https://example.com/publication/riveros-mckay-integrated-2021/</link>
+      <link>https://jonathangriffiths.github.io/publication/riveros-mckay-integrated-2021/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/riveros-mckay-integrated-2021/</guid>
+      <guid>https://jonathangriffiths.github.io/publication/riveros-mckay-integrated-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diverse Routes toward Early Somites in the Mouse Embryo</title>
-      <link>https://example.com/publication/guibentif-diverse-2020/</link>
+      <link>https://jonathangriffiths.github.io/publication/guibentif-diverse-2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/guibentif-diverse-2020/</guid>
+      <guid>https://jonathangriffiths.github.io/publication/guibentif-diverse-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A single-cell molecular map of mouse gastrulation and early organogenesis</title>
-      <link>https://example.com/publication/pijuan-sala-single-cell-2019/</link>
+      <link>https://jonathangriffiths.github.io/publication/pijuan-sala-single-cell-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pijuan-sala-single-cell-2019/</guid>
+      <guid>https://jonathangriffiths.github.io/publication/pijuan-sala-single-cell-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detection and removal of barcode swapping in single-cell RNA-seq data</title>
-      <link>https://example.com/publication/griffiths-detection-2018/</link>
+      <link>https://jonathangriffiths.github.io/publication/griffiths-detection-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/griffiths-detection-2018/</guid>
+      <guid>https://jonathangriffiths.github.io/publication/griffiths-detection-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using single‐cell genomics to understand developmental processes and cell fate decisions</title>
-      <link>https://example.com/publication/griffiths-using-2018/</link>
+      <link>https://jonathangriffiths.github.io/publication/griffiths-using-2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/griffiths-using-2018/</guid>
+      <guid>https://jonathangriffiths.github.io/publication/griffiths-using-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mosaic autosomal aneuploidies are detectable from single-cell RNAseq data</title>
-      <link>https://example.com/publication/griffiths-mosaic-2017/</link>
+      <link>https://jonathangriffiths.github.io/publication/griffiths-mosaic-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/griffiths-mosaic-2017/</guid>
+      <guid>https://jonathangriffiths.github.io/publication/griffiths-mosaic-2017/</guid>
       <description></description>
     </item>
     
