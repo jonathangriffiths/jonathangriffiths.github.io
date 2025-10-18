@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Jonathan Griffiths</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jonathangriffiths.github.io/</link>
     <description>Recent content in About on Jonathan Griffiths</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jonathangriffiths.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://jonathangriffiths.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://jonathangriffiths.github.io/contact/</guid>
       <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;p&gt;Feel free to reach out to me via email:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:jonny.amplifier318@aleeas.com&#34;&gt;jonny.amplifier318@aleeas.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;professional-links&#34;&gt;Professional Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.uk/citations?user=ncNpXL4AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/jonathangriffiths&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/jonathan-griffiths-92b53615a/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://jonathangriffiths.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
-      <description>&lt;h2 id=&#34;selected&#34;&gt;Selected&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;A single-cell molecular map of mouse gastrulation and early organogenesis&lt;/strong&gt;&lt;br&gt;&#xA;Blanca Pijuan-Sala*, &lt;strong&gt;Jonathan A. Griffiths*&lt;/strong&gt;, Carolina Guibentif*, Tom W. Hiscock, Wajid Jawaid, Fernando J. Calero-Nieto, Carla Mulas, Ximena Ibarra-Soria, Richard C. V. Tyser, Debbie Lee Lian Ho, Wolf Reik, Shankar Srinivas, Benjamin D. Simons, Jennifer Nichols, John C. Marioni, Berthold Göttgens&#xA;&lt;em&gt;Nature&lt;/em&gt;, 2019&#xA;&lt;a href=&#34;https://doi.org/10.1038/s41586-019-0933-9&#34;&gt;https://doi.org/10.1038/s41586-019-0933-9&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I &lt;a href=&#34;https://www.youtube.com/watch?v=HxvZv7jt-LU&#34;&gt;presented&lt;/a&gt; this work (as a younger verion of myself!) at Biology of Genomes 2018.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Detection and removal of barcode swapping in single-cell RNA-seq data&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Jonathan A. Griffiths&lt;/strong&gt;, Arianne C. Richard, Karsten Bach, Aaron T. L. Lun, John C. Marioni&#xA;&lt;em&gt;Nature Communications&lt;/em&gt;, 2018&#xA;&lt;a href=&#34;https://doi.org/10.1038/s41467-018-05083-x&#34;&gt;https://doi.org/10.1038/s41467-018-05083-x&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://jonathangriffiths.github.io/publications/</guid>
+      <description>&lt;h2 id=&#34;selected&#34;&gt;Selected&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;A single-cell molecular map of mouse gastrulation and early organogenesis&lt;/strong&gt;&lt;br&gt;&#xA;Blanca Pijuan-Sala*, &lt;strong&gt;Jonathan A. Griffiths*&lt;/strong&gt;, Carolina Guibentif*, Tom W. Hiscock, Wajid Jawaid, Fernando J. Calero-Nieto, Carla Mulas, Ximena Ibarra-Soria, Richard C. V. Tyser, Debbie Lee Lian Ho, Wolf Reik, Shankar Srinivas, Benjamin D. Simons, Jennifer Nichols, John C. Marioni, Berthold Göttgens&#xA;&lt;em&gt;Nature&lt;/em&gt;, 2019&#xA;&lt;a href=&#34;https://doi.org/10.1038/s41586-019-0933-9&#34;&gt;https://doi.org/10.1038/s41586-019-0933-9&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I &lt;a href=&#34;https://www.youtube.com/watch?v=HxvZv7jt-LU&#34;&gt;presented&lt;/a&gt; this work (as a younger version of myself!) at Biology of Genomes 2018.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Detection and removal of barcode swapping in single-cell RNA-seq data&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Jonathan A. Griffiths&lt;/strong&gt;, Arianne C. Richard, Karsten Bach, Aaron T. L. Lun, John C. Marioni&#xA;&lt;em&gt;Nature Communications&lt;/em&gt;, 2018&#xA;&lt;a href=&#34;https://doi.org/10.1038/s41467-018-05083-x&#34;&gt;https://doi.org/10.1038/s41467-018-05083-x&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
